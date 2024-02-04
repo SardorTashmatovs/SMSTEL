@@ -26,6 +26,3 @@ match i1:
         print(f" версия твоего телефона: {hh['data']['name']}\n Версия твоего телефона: {hh['data']['version']}\n имя версии телефона: {hh['data']['version_name']}\n Марка : {hh['data']['manufacturer']}")
     case _:
         print("вы ввели неправильное число")
-
-
-    
